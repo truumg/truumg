@@ -6,7 +6,7 @@
 
 Сайты · Интерфейсы · Telegram-боты
 
-[Портфолио](https://nezaxodit08-coder.github.io/andrey-portfolio/) · [Telegram](https://t.me/Kypit0Man)
+[Портфолио](https://truumg.github.io/andrey-portfolio/) · [Telegram](https://t.me/Kypit0Man)
 
 </div>
 
@@ -29,7 +29,7 @@
 [Открыть бота](https://t.me/KYKU_DROP_BOT)
 
 **Morrow · Forma · Sol** — концепты айдентики и интерфейсов
-[Смотреть в портфолио](https://nezaxodit08-coder.github.io/andrey-portfolio/#work)
+[Смотреть в портфолио](https://truumg.github.io/andrey-portfolio/#work)
 
 ### Инструменты
 
